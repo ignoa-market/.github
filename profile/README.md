@@ -6,8 +6,15 @@
 
 > 중고거래, 더 이상 혼자 흥정하지 마세요. IGNOA가 더 공정한 거래를 만들어드립니다.
 
-[[바로가기]](https://ignoa-web.vercel.app/login)
+<br>
 
+[[웹 바로가기]](https://ignoa-web.vercel.app/login) , 
+[[프로젝트 노션]](https://familiar-dragon-4ed.notion.site/Ignoa-336bf88cd0f580b9ae17fc47b088208f?source=copy_link) ,
+[[API 명세]](https://familiar-dragon-4ed.notion.site/API-336bf88cd0f58150b007e4fa41649d0e?source=copy_link) ,
+[[데이터베이스 설계]](https://familiar-dragon-4ed.notion.site/DB-336bf88cd0f581109574fef029f86e96?source=copy_link) , 
+[[ERD]](https://familiar-dragon-4ed.notion.site/ERD-338bf88cd0f580119e8ad86b2f17c1f9?source=copy_link)
+
+<br>
 <br>
 
 <img width="550" height="750" alt="image" src="https://github.com/user-attachments/assets/63200c37-6e27-44a0-aa10-c3f89f2035db" />

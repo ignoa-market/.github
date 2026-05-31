@@ -8,7 +8,7 @@
 
 <br>
 
-[[웹 바로가기]](https://ignoa-web.vercel.app/login) , 
+[[웹 바로가기]](https://ignoa-web.vercel.app) , 
 [[프로젝트 노션]](https://familiar-dragon-4ed.notion.site/Ignoa-336bf88cd0f580b9ae17fc47b088208f?source=copy_link) ,
 [[API 명세]](https://familiar-dragon-4ed.notion.site/API-336bf88cd0f58150b007e4fa41649d0e?source=copy_link) ,
 [[데이터베이스 설계]](https://familiar-dragon-4ed.notion.site/DB-336bf88cd0f581109574fef029f86e96?source=copy_link), 

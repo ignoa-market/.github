@@ -2,13 +2,19 @@
 
 # IGNOA (이그노아)
 
-**실시간 경매 기반 중고 거래 플랫폼**
+[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/javase/21/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/Docker-29.5.2-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
-> 중고거래, 더 이상 혼자 흥정하지 마세요. IGNOA가 더 공정한 거래를 만들어드립니다.
+**"실시간 경매를 통해 내 손안에서 거래하는 중고 마켓플레이스"**
+
+> Ignoa는 사용자가 원하는 중고 상품을 경매와 즉시구매로 거래하고, 입찰 현황을 실시간으로 확인할 수 있는 경매 기반 중고거래 플랫폼입니다.
 
 <br>
 
-[[웹 바로가기]](https://ignoa-web.vercel.app) , 
+[[웹 바로가기]](https://ignoa.wisoft.dev/app) , 
 [[프로젝트 노션]](https://familiar-dragon-4ed.notion.site/Ignoa-336bf88cd0f580b9ae17fc47b088208f?source=copy_link) ,
 [[API 명세]](https://familiar-dragon-4ed.notion.site/API-336bf88cd0f58150b007e4fa41649d0e?source=copy_link) ,
 [[데이터베이스 설계]](https://familiar-dragon-4ed.notion.site/DB-336bf88cd0f581109574fef029f86e96?source=copy_link), 

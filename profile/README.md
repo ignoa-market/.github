@@ -14,14 +14,6 @@
 
 <br>
 
-[[웹 바로가기]](https://ignoa.wisoft.dev/app) , 
-[[프로젝트 노션]](https://familiar-dragon-4ed.notion.site/Ignoa-336bf88cd0f580b9ae17fc47b088208f?source=copy_link) ,
-[[API 명세]](https://familiar-dragon-4ed.notion.site/API-336bf88cd0f58150b007e4fa41649d0e?source=copy_link) ,
-[[데이터베이스 설계]](https://familiar-dragon-4ed.notion.site/DB-336bf88cd0f581109574fef029f86e96?source=copy_link), 
-[[트러블 슈팅]](https://www.notion.so/338bf88cd0f580629722d14f99044f8e?v=338bf88cd0f580d09cdd000c48f1a301&source=copy_link)
-
-<br>
-
 <img width="3248" height="2122" alt="image" src="https://github.com/user-attachments/assets/08bfba67-73b9-4f8f-86c8-9806684f26ca" />
 
 <br>

@@ -1,12 +1,19 @@
 ## 📌 관련 이슈 (Related Issue)
 
 - resolves: #
+- related: # 
 
 ---
 
 ## 📝 작업 내용 (Description)
 
 어떤 변경이 있는지, 왜 필요한지 간략히 설명해주세요.
+
+### 1.
+- 
+
+### 2.
+- 
 
 ---
 

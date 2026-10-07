@@ -31,12 +31,11 @@
 
 ### 🔗 Links
 
-- **Service** : [ignoa.woomin.dev](https://ignoa.woomin.dev/app)
-- **Overview** : [IGNOA를 소개합니다.](https://familiar-dragon-4ed.notion.site/IGNOA-342bf88cd0f580cc8eadf69b6a4752ae?source=copy_link)
-- **API Docs** : [API 명세](https://familiar-dragon-4ed.notion.site/API-336bf88cd0f58150b007e4fa41649d0e?source=copy_link)
-- **Dev Notes** : [Project Notion](https://familiar-dragon-4ed.notion.site/Project-IGNOA-336bf88cd0f580b9ae17fc47b088208f?source=copy_link)
-- **Logging Conventions** : [로깅 규약](https://familiar-dragon-4ed.notion.site/Logging-Convention-3d0bf88cd0f580bdb1adcd782918146f?source=copy_link) 
-
+- [Service](https://ignoa.woomin.dev/app)
+- [Overview](https://familiar-dragon-4ed.notion.site/IGNOA-342bf88cd0f580cc8eadf69b6a4752ae?source=copy_link)
+- [API Docs](https://familiar-dragon-4ed.notion.site/API-336bf88cd0f58150b007e4fa41649d0e?source=copy_link)
+- [Dev Notes](https://familiar-dragon-4ed.notion.site/Project-IGNOA-336bf88cd0f580b9ae17fc47b088208f?source=copy_link)
+- [Logging Conventions](https://github.com/ignoa-market/.github/blob/main/docs/logging-conventions.md)
 
 <br/>
 

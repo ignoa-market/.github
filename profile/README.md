@@ -82,7 +82,7 @@
 
 ### 📐 System Architecture 
 
-<img width="8956" height="4514" alt="Untitled-2026-04-26-1257" src="https://github.com/user-attachments/assets/48bbd62d-37e6-4f67-a258-59732e1bad97" />
+<img width="9012" height="4501" alt="AWS_아키텍쳐" src="https://github.com/user-attachments/assets/57879078-5591-4a68-a334-73c71b50df65" />
 
 ---
 
